@@ -1,9 +1,11 @@
 This project aims to analyze and predict tornado activities using historical weather data. The analysis focuses on identifying patterns and trends in tornado occurrences, which can help improve prediction models for future tornado events. The project leverages machine learning algorithms and data visualization tools to deliver insights and predictive analysis.
 
-Project Overview
+Project Overview:
+
 Tornadoes are powerful and destructive natural phenomena, and predicting their occurrence is crucial for minimizing damage and loss of life. This project applies data science techniques to explore tornado activity data, extract meaningful patterns, and build predictive models to forecast future tornado events.
 
-Features
+Features:
+
 Data cleaning and preprocessing of tornado activity datasets.
 Exploratory Data Analysis (EDA) to identify patterns and trends in the data.
 Feature engineering to enhance the dataset for model building.
@@ -15,11 +17,14 @@ Languages: Python
 Libraries: Pandas, NumPy, Scikit-learn, Seaborn, Matplotlib
 Machine Learning: Random Forest, Logistic Regression
 Visualization Tools: Matplotlib, Seaborn
-Datasets
+
+Datasets:
+
 The datasets used in this project are publicly available tornado activity records collected over multiple years, including meteorological data such as wind speed, atmospheric pressure, temperature, and geographic location.
 
 Setup and Installation
 Clone the repository:
+
 bash
 Copy code
 git clone https://github.com/stabasum04/Data-Analysis-for-Tornado-Prediction.git
